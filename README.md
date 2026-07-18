@@ -1,4 +1,6 @@
 # **Hi, I'm Vĩ**
+- 🌐 **Portfolio & Research Blog**: [viquantai.pages.dev](https://viquantai.pages.dev)
+
 
 I'm a **final-year Data Science student** at Ho Chi Minh City University of Science (HCMUS), where I bridge two interconnected worlds: **applied Artificial Intelligence** and **quantitative modeling**. I build systems that learn from data, reason about uncertainty, and make decisions under real-world constraints.
 
