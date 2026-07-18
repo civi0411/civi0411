@@ -1,80 +1,32 @@
-# 👋 Hi, I'm Trần Chí Vĩ (@civi0411)
+# Hi, I'm Vĩ
 
-**Student @ HCMUS · Data Science (Final Year) · Aspiring Quantitative AI Engineer**  
-📍 Ho Chi Minh City, Vietnam  
-🌱 Currently *learning, researching & rebuilding mathematical foundations*
+I'm a **final-year Data Science student** at Ho Chi Minh City University of Science (HCMUS), methodically building a foundation in **statistical learning, time-series analysis, and production-grade data systems**. I work at the intersection of **Data Science · Quantitative Modeling · Clean Engineering**.
 
----
-
-## 🧑‍🎓 About Me
-
-I am a final‑year undergraduate majoring in **Data Science** at the **Ho Chi Minh City University of Science (HCMUS)**.  
-My journey is driven by a deep curiosity for **time‑series analysis**, **market microstructure**, and the design of robust quantitative systems in **C++** and **Python**.
-
-I believe that true value in quantitative research comes from **first‑principles thinking**, **rigorous empirical validation**, and **clean, reproducible engineering** – not from chasing hype.
+- 🎓 Final-year DS undergraduate — HCMUS (Mathematics & CS track)
+- 📍 Ho Chi Minh City, Vietnam
+- 🔭 Currently: senior capstone research + self-directed study in sequential models and market microstructure
+- ⚙️ Core stack: Python (scientific), C++20, PyTorch, Pandas/NumPy/SciPy, SQL, Git/Linux
+- 📊 DS focus: Statistical inference, EDA, feature engineering, ML pipelines, reproducible research
+- 📈 Quant focus: Time-series forecasting, volatility modeling, backtesting engines, portfolio optimization
 
 ---
 
-## 🛠️ Skills & Technologies
+## What I'm working on
 
-### Languages & Core Systems
-| Language / Tool | Domain |
-|----------------|--------|
-| **Python 3**   | Scientific & Research |
-| **C++20**      | Systems & Algorithms |
-| **SQL**        | Data Engineering |
-| **Git, Linux & Bash** | Dev Environment |
+- **End-to-End ML Systems for Sequential Data** – Building modular data pipelines (ETL + feature engineering) in Python and SQL to process noisy time-series data, paired with systematic model selection (XGBoost, LSTM, Transformer) and rigorous statistical validation to separate signal from noise.
 
-### Quantitative & AI Frameworks
-| Framework / Area | Application |
-|------------------|-------------|
-| **PyTorch**      | Sequential AI / Deep Learning |
-| **NumPy, Pandas, SciPy** | Data Pipelines |
-| **Time‑Series Modeling** | ARIMA / State‑Space |
-| **Quantitative Backtesting** | Event‑Driven Engines |
+- **Event-Driven Quantitative Backtester** – Designing a low-latency simulation framework in C++20 and Python that integrates market microstructure constraints (order book dynamics, slippage, execution costs) for reproducible strategy evaluation.
 
-### Mathematical Foundations
-| Topic | Focus |
-|-------|-------|
-| Probability & Statistics | Rigorous Hypothesis Testing |
-| Linear Algebra & Calculus | Matrix Computations |
-| Market Microstructure | LOB Order Books |
-| Portfolio Optimization | Risk Parity / HRP |
+- **Exploratory Data Analysis & Statistical Inference** – Applying Bayesian methods, hypothesis testing, and bootstrapping to real-world financial and transactional datasets – translating raw tick-level data into actionable insights through interactive visualizations and robust confidence estimates.
+
+- **Foundational Math & Algorithm Refactoring** – Re-implementing core statistical models (PCA, Kalman Filters, GLMs) and numerical solvers from scratch in Python/C++ to solidify the mathematical rigor behind high-level libraries, documented as clean, executable research notebooks.
 
 ---
 
-## 🔍 Areas of Focus
+## Reach me
 
-- **Time‑Series Analysis & Financial Data** – price dynamics, order flow imbalances, tick‑level structure.
-- **Sequential Machine Learning Models** – modern neural architectures for long‑range temporal dependencies.
-- **Low‑Latency & Clean Code Engineering** – C++20 and modular Python for reproducible backtesting.
-
----
-
-## 📅 Timeline
-
-- **2025 – Present** · *Final‑Year Undergraduate & Independent Study*  
-  Senior capstone research, self‑directed quantitative modeling, and refactoring math foundations into open‑source projects.
-
-- **2022 – Present** · *Student @ HCMUS*  
-  Undergraduate studies in Mathematics and Computer Science, building systematic thinking in algorithms, data structures, and statistical analysis.
+- 📧 [cuuvi985@gmail.com](mailto:cuuvi985@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/civi0411/)
+- [Facebook](https://www.facebook.com/chi.vi.918206)
 
 ---
-
-## 📫 Let's Connect
-
-- **GitHub Portfolio**: [github.com/civi0411](https://github.com/civi0411) – *where my code lives*
-- **LinkedIn**: [Trần Chí Vĩ](https://www.linkedin.com/in/tr%E1%BA%A7n-ch%C3%AD-v%C4%A9-9751422a6/)
-- **Facebook**: [chi.vi.918206](https://www.facebook.com/chi.vi.918206)
-
----
-
-## 🧭 Guiding Principles
-
-1. **First‑Principles Foundation** – Master the core (linear algebra, probability, stochastic processes) before layering on complex models.
-2. **Clean & Structured Engineering** – Write modular, performant, and reproducible code in Python and C++.
-3. **Open & Living Documentation** – This profile is my open laboratory notebook – a space to document, share, and improve continuously.
-
----
-
-> *“Methodical inquiry and honest validation – the compass for my quantitative journey.”*
