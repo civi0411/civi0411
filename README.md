@@ -1,29 +1,42 @@
-# Hi, I'm Vĩ
+# **Hi, I'm Vĩ**
 
-I'm a **final-year Data Science student** at Ho Chi Minh City University of Science (HCMUS), methodically building a foundation in **statistical learning, time-series analysis, and production-grade data systems**. I work at the intersection of **Data Science · Quantitative Modeling · Clean Engineering**.
+I'm a **final-year Data Science student** at Ho Chi Minh City University of Science (HCMUS), where I bridge two interconnected worlds: **applied Artificial Intelligence** and **quantitative modeling**. I build systems that learn from data, reason about uncertainty, and make decisions under real-world constraints.
 
-- 🎓 Final-year DS undergraduate — HCMUS (Mathematics & CS track)
-- 📍 Ho Chi Minh City, Vietnam
-- 🔭 Currently: senior capstone research + self-directed study in sequential models and market microstructure
-- ⚙️ Core stack: Python (scientific), C++20, PyTorch, Pandas/NumPy/SciPy, SQL, Git/Linux
-- 📊 DS focus: Statistical inference, EDA, feature engineering, ML pipelines, reproducible research
-- 📈 Quant focus: Time-series forecasting, volatility modeling, backtesting engines, portfolio optimization
+My work spans the full spectrum—from developing production-grade LLM applications, RAG pipelines, and AI agents, to designing statistical models, time-series forecasting engines, and backtesting frameworks for quantitative finance. I believe the best solutions emerge when **machine learning meets rigorous statistical thinking**.
+
+Currently, I am deeply focused on creating reliable, useful, and deployable AI systems—whether that means fine-tuning a transformer for sequential data, orchestrating multi-agent workflows, or implementing a Kalman filter from scratch to track market dynamics.
+
+### 🔬 What I do
+
+**Artificial Intelligence & Machine Learning**
+- Building **LLM-powered applications** with RAG (LangChain, LlamaIndex) and agentic orchestration
+- Developing **Computer Vision** systems for classification, detection, and segmentation
+- Designing **end-to-end ML pipelines**: ETL, feature engineering, model training (PyTorch, XGBoost, LSTM, Transformer), and deployment (FastAPI, Docker)
+- Experimenting with **foundation models** for domain-specific tasks (fine-tuning, prompting strategies, evaluation)
+
+**Quantitative Modeling & Data Science**
+- **Time-series analysis**: forecasting, volatility modeling (GARCH, stochastic volatility), regime detection
+- **Statistical inference**: Bayesian methods, hypothesis testing, bootstrapping, causal inference
+- **Financial engineering**: portfolio optimization, risk metrics (VaR, CVaR), event-driven backtesting
+- **Mathematical foundations**: re-implementing core algorithms (PCA, Kalman filters, GLMs, numerical solvers) from the ground up in Python/C++ to ensure deep understanding
 
 ---
 
-## What I'm working on
+### ⚙️ Technical Toolkit
 
-- **End-to-End ML Systems for Sequential Data** – Building modular data pipelines (ETL + feature engineering) in Python and SQL to process noisy time-series data, paired with systematic model selection (XGBoost, LSTM, Transformer) and rigorous statistical validation to separate signal from noise.
-
-- **Event-Driven Quantitative Backtester** – Designing a low-latency simulation framework in C++20 and Python that integrates market microstructure constraints (order book dynamics, slippage, execution costs) for reproducible strategy evaluation.
-
-- **Exploratory Data Analysis & Statistical Inference** – Applying Bayesian methods, hypothesis testing, and bootstrapping to real-world financial and transactional datasets – translating raw tick-level data into actionable insights through interactive visualizations and robust confidence estimates.
-
-- **Foundational Math & Algorithm Refactoring** – Re-implementing core statistical models (PCA, Kalman Filters, GLMs) and numerical solvers from scratch in Python/C++ to solidify the mathematical rigor behind high-level libraries, documented as clean, executable research notebooks.
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | Python (expert), C++20, SQL |
+| **AI/ML** | PyTorch, TensorFlow, HuggingFace, LangChain, LlamaIndex, XGBoost |
+| **Data** | Pandas, NumPy, SciPy, PySpark, Airflow |
+| **Quant** | Statsmodels, ARCH, PyMC, Zipline, QuantLib |
+| **Engineering** | FastAPI, Docker, Git, Linux, CI/CD |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Dash |
 
 ---
+### 📬 Connect with me
 
-## Reach me
+I am always open to collaboration, research discussions, or just a good conversation about data, models, and systems.
 
 - 📧 [cuuvi985@gmail.com](mailto:cuuvi985@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/civi0411/)
