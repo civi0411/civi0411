@@ -1,4 +1,4 @@
-# Hi! I'm Vĩ 
+## Hi! I'm Vĩ 
 > *Data Science · AI · Quantitative Finance*
 
 ### 🌐 Portfolio & Research Blog
